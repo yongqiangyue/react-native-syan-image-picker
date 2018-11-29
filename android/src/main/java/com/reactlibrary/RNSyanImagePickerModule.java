@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.reactlibrary.ct;
 
 import android.app.Activity;
 import android.content.Intent;
